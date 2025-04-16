@@ -1,1 +1,1 @@
-# coding_test
+# coding_test 연습 (파이썬(백준, 프로그래머스), sql)
